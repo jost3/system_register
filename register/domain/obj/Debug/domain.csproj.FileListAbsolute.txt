@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\system_registro\register\domain\bin\Debug\domain.dll
+C:\Users\DELL\Desktop\system_registro\register\domain\bin\Debug\domain.pdb
+C:\Users\DELL\Desktop\system_registro\register\domain\obj\Debug\domain.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\system_registro\register\domain\obj\Debug\domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\system_registro\register\domain\obj\Debug\domain.dll
+C:\Users\DELL\Desktop\system_registro\register\domain\obj\Debug\domain.pdb

@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\system_registro\register\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\DELL\Desktop\system_registro\register\Presentation\bin\Debug\Presentation.exe
+C:\Users\DELL\Desktop\system_registro\register\Presentation\bin\Debug\Presentation.pdb
+C:\Users\DELL\Desktop\system_registro\register\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\system_registro\register\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\DELL\Desktop\system_registro\register\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\system_registro\register\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\system_registro\register\Presentation\obj\Debug\Presentation.exe
+C:\Users\DELL\Desktop\system_registro\register\Presentation\obj\Debug\Presentation.pdb

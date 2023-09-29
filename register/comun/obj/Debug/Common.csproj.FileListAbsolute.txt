@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\system_registro\register\comun\bin\Debug\comun.dll
+C:\Users\DELL\Desktop\system_registro\register\comun\bin\Debug\comun.pdb
+C:\Users\DELL\Desktop\system_registro\register\comun\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\system_registro\register\comun\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\system_registro\register\comun\obj\Debug\comun.dll
+C:\Users\DELL\Desktop\system_registro\register\comun\obj\Debug\comun.pdb
